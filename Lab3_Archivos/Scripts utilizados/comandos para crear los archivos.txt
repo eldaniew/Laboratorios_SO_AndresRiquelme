@@ -1,0 +1,7 @@
+Comandos para crear los archivos en distintos tamaños en linux.
+
+Archivo pequeño (1KB): dd if=/dev/zero of=archivo_pequeno.bin bs=1K count=1
+
+Archivo mediano (100MB): dd if=/dev/zero of=archivo_mediano.bin bs=1M count=100
+
+Archivo grande (1GB): dd if=/dev/zero of=archivo_grande.bin bs=1M count=1024
