@@ -1,0 +1,3 @@
+dd if=/dev/zero of=archivo_prueba bs=1M count=512
+
+Este comando sirve para crear un archivo que pese 512MB en linux
