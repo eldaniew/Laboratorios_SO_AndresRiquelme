@@ -1,0 +1,7 @@
+jun 20 15:59:15 andres-VirtualBox sudo[10068]: pam_unix(sudo:auth): authentication failure; logname=andres uid=1000 euid=0 tty=/dev/pts/0 ruser=andres rhost=  user=andres
+
+jun 20 15:59:29 andres-VirtualBox sudo[10068]:   andres : 3 incorrect password attempts ; TTY=pts/0 ; PWD=/home/andres ; USER=root ; COMMAND=/usr/bin/ls
+
+jun 20 15:59:39 andres-VirtualBox sudo[10073]: pam_unix(sudo:auth): authentication failure; logname=andres uid=1000 euid=0 tty=/dev/pts/0 ruser=andres rhost=  user=andres
+
+jun 20 15:59:48 andres-VirtualBox sudo[10073]:   andres : 3 incorrect password attempts ; TTY=pts/0 ; PWD=/home/andres ; USER=root ; COMMAND=/usr/bin/ls
